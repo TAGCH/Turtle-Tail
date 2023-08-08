@@ -32,9 +32,3 @@ class mix:
                     print("LEADERBOARD")
                     print(tabulate(Dict_Score, headers='keys', tablefmt='fancy_grid'))            
                     break
-
-
-
-
-
-    
